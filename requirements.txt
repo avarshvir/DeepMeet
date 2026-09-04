@@ -1,0 +1,31 @@
+# Web and Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+
+# STT
+faster-whisper
+
+# Chunking and Embedding
+sentence-transformers
+
+# Vector DB
+chromadb
+
+# Inference Engine
+ollama
+
+# PostgreSQL
+SQLAlchemy
+psycopg2-binary
+
+# TTS
+edge-TTS
+
+# Frontend
+nicegui
+
+# Utilities
+requests
