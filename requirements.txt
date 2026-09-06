@@ -29,3 +29,5 @@ nicegui
 
 # Utilities
 requests
+litellm
+gita-py
