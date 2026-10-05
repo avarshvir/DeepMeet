@@ -1,4 +1,4 @@
-# DeepMeet
+# SAT AI
 
 DeepMeet is a NiceGUI meeting assistant that uploads meeting audio, transcribes it with Whisper, generates three summary styles, stores results in PostgreSQL, indexes transcript chunks in ChromaDB, and lets users chat with the transcript.
 
