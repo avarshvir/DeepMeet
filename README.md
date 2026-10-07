@@ -7,7 +7,7 @@ Ollama is the default LLM provider. Cloud providers can be configured from the i
 ## Project Structure
 
 ```text
-DeepMeet/
+sat-ai/
   app.py                 # NiceGUI launcher and API registration
   deepmeet/
     api/                 # FastAPI routes mounted into the NiceGUI app
